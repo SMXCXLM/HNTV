@@ -9,26 +9,26 @@
 ## 北京联通的IPTV节目列表
 
 自用单播列表永久地址
-- [https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u")
+- [https://raw.githubusercontent.com/SMXCXLM/HNTV/master/IPTV-Unicom.m3u](https://raw.githubusercontent.com/SMXCXLM/HNTV/master/IPTV-Unicom.m3u "https://raw.githubusercontent.com/SMXCXLM/HNTV/master/IPTV-Unicom.m3u")
 
 通用组播列表永久地址
-- [https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u")
+- [https://raw.githubusercontent.com/SMXCXLM/HNTV/master/IPTV-Unicom-Multicast.m3u](https://raw.githubusercontent.com/SMXCXLM/HNTV/master/IPTV-Unicom-Multicast.m3u "https://raw.githubusercontent.com/SMXCXLM/HNTV/master/IPTV-Unicom-Multicast.m3u")
 
 ------------
 
 ## 北京移动的IPTV节目列表
 
 自用单播列表永久地址
-- [https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u")
+- [https://raw.githubusercontent.com/SMXCXLM/HNTV/master/IPTV-Mobile.m3u](https://raw.githubusercontent.com/SMXCXLM/HNTV/master/IPTV-Mobile.m3u "https://raw.githubusercontent.com/SMXCXLM/HNTV/master/IPTV-Mobile.m3u")
 
 通用组播列表永久地址
-- [https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u")
+- [https://raw.githubusercontent.com/SMXCXLM/HNTV/master/IPTV-Mobile-Multicast.m3u](https://raw.githubusercontent.com/SMXCXLM/HNTV/master/IPTV-Mobile-Multicast.m3u "https://raw.githubusercontent.com/SMXCXLM/HNTV/master/IPTV-Mobile-Multicast.m3u")
 
 ------------
 
 #### 镜像
 以下镜像采用联通单播地址示例，需要其它列表及镜像是否可用请自行处理
-- https://github.com/qwerttvv/Beijing-IPTV/releases/download/iptv/IPTV-Unicom.m3u
+- https://github.com/SMXCXLM/HNTV/releases/download/iptv/IPTV-Unicom.m3u
 - https://bjiptv.gq/IPTV-Unicom.m3u
 - https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u
 - https://beijing-iptv.pages.dev/IPTV-Unicom.m3u
